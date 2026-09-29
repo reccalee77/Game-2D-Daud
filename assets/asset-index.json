@@ -1,0 +1,142 @@
+[
+  {
+    "category": "bases",
+    "name": "beruang",
+    "path": "generated/bases/beruang.png"
+  },
+  {
+    "category": "bases",
+    "name": "daud",
+    "path": "generated/bases/daud.png"
+  },
+  {
+    "category": "bases",
+    "name": "domba",
+    "path": "generated/bases/domba.png"
+  },
+  {
+    "category": "bases",
+    "name": "goliat",
+    "path": "generated/bases/goliat.png"
+  },
+  {
+    "category": "bases",
+    "name": "serigala",
+    "path": "generated/bases/serigala.png"
+  },
+  {
+    "category": "bases",
+    "name": "singa",
+    "path": "generated/bases/singa.png"
+  },
+  {
+    "category": "items",
+    "name": "arrow",
+    "path": "generated/items/arrow.png"
+  },
+  {
+    "category": "items",
+    "name": "kasut",
+    "path": "generated/items/kasut.png"
+  },
+  {
+    "category": "items",
+    "name": "shield",
+    "path": "generated/items/shield.png"
+  },
+  {
+    "category": "effects",
+    "name": "hit_spark",
+    "path": "generated/effects/hit_spark.png"
+  },
+  {
+    "category": "effects",
+    "name": "shield_dome",
+    "path": "generated/effects/shield_dome.png"
+  },
+  {
+    "category": "effects",
+    "name": "stone",
+    "path": "generated/effects/stone.png"
+  },
+  {
+    "category": "effects",
+    "name": "threat_arrow",
+    "path": "generated/effects/threat_arrow.png"
+  },
+  {
+    "category": "backgrounds",
+    "name": "lembah_goliat",
+    "path": "generated/backgrounds/lembah_goliat.png"
+  },
+  {
+    "category": "backgrounds",
+    "name": "padang",
+    "path": "generated/backgrounds/padang.png"
+  },
+  {
+    "category": "backgrounds",
+    "name": "perbukitan",
+    "path": "generated/backgrounds/perbukitan.png"
+  },
+  {
+    "category": "animation",
+    "name": "beruang",
+    "manifest": "generated/sprites/beruang/manifest.json",
+    "atlas": "generated/sprites/beruang/sprite-sheet-alpha.png",
+    "qa": "generated/sprites/beruang/qa-notes.md",
+    "motion_qa": "unverified_in_playback",
+    "pending": {}
+  },
+  {
+    "category": "animation",
+    "name": "daud",
+    "manifest": "generated/sprites/daud/manifest.json",
+    "atlas": "generated/sprites/daud/sprite-sheet-alpha.png",
+    "qa": "generated/sprites/daud/qa-notes.md",
+    "motion_qa": "unverified_in_playback",
+    "pending": {}
+  },
+  {
+    "category": "animation",
+    "name": "domba",
+    "manifest": "generated/sprites/domba/manifest.json",
+    "atlas": "generated/sprites/domba/sprite-sheet-alpha.png",
+    "qa": "generated/sprites/domba/qa-notes.md",
+    "motion_qa": "unverified_in_playback",
+    "pending": {}
+  },
+  {
+    "category": "animation",
+    "name": "goliat",
+    "manifest": "generated/sprites/goliat/manifest.json",
+    "atlas": "generated/sprites/goliat/sprite-sheet-alpha.png",
+    "qa": "generated/sprites/goliat/qa-notes.md",
+    "motion_qa": "unverified_in_playback",
+    "pending": {}
+  },
+  {
+    "category": "animation",
+    "name": "serigala",
+    "manifest": "generated/sprites/serigala/manifest.json",
+    "atlas": "generated/sprites/serigala/sprite-sheet-alpha.png",
+    "qa": "generated/sprites/serigala/qa-notes.md",
+    "motion_qa": "unverified_in_playback",
+    "pending": {}
+  },
+  {
+    "category": "animation",
+    "name": "singa",
+    "manifest": "generated/sprites/singa/manifest.json",
+    "atlas": "generated/sprites/singa/sprite-sheet-alpha.png",
+    "qa": "generated/sprites/singa/qa-notes.md",
+    "motion_qa": "unverified_in_playback",
+    "pending": {
+      "defeat": {
+        "frames": 5,
+        "status": "generation_blocked",
+        "reason": "Image service output safety rejection on two attempts. No further retry."
+      }
+    }
+  }
+]

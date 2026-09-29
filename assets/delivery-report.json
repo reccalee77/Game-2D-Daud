@@ -1,0 +1,45 @@
+{
+  "characters": {
+    "beruang": {
+      "states": 5,
+      "frames": 24,
+      "pending": {}
+    },
+    "daud": {
+      "states": 10,
+      "frames": 48,
+      "pending": {}
+    },
+    "domba": {
+      "states": 4,
+      "frames": 20,
+      "pending": {}
+    },
+    "goliat": {
+      "states": 8,
+      "frames": 41,
+      "pending": {}
+    },
+    "serigala": {
+      "states": 5,
+      "frames": 24,
+      "pending": {}
+    },
+    "singa": {
+      "states": 5,
+      "frames": 23,
+      "pending": {
+        "defeat": {
+          "frames": 5,
+          "status": "generation_blocked",
+          "reason": "Image service output safety rejection on two attempts. No further retry."
+        }
+      }
+    }
+  },
+  "static_assets": 16,
+  "states": 37,
+  "frames": 180,
+  "motion_playback_verified": false,
+  "errors": []
+}

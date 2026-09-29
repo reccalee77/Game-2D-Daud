@@ -1,0 +1,7 @@
+{
+  "defeat": {
+    "frames": 5,
+    "status": "generation_blocked",
+    "reason": "Image service output safety rejection on two attempts. No further retry."
+  }
+}

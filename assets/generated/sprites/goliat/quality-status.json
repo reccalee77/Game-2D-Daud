@@ -1,0 +1,5 @@
+{
+  "walk": "eight_frame_candidate_static_review_best_effort_playback_unverified",
+  "swing": "static_pose_review_pass_after_regeneration",
+  "playback": "unverified"
+}
